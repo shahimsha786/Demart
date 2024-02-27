@@ -18,7 +18,7 @@ public class Product {
 	public static void main(String[] args) {
 		Product pr=new Product();
 		pr.id=786;
-		pr.name="shirt";
+		pr.name="pant";
 		pr.sku="lenein-sleeve";
 		System.out.println(pr);
 		
