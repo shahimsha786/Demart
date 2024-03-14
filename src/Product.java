@@ -19,7 +19,7 @@ public class Product {
 		Product pr=new Product();
 		pr.id=666;
 		pr.name="shirt";
-		pr.sku="lenein-sleeve";
+		pr.sku="remotegit";
 		System.out.println(pr);
 		
 		
