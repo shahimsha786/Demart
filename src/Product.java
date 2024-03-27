@@ -18,8 +18,8 @@ public class Product {
 	public static void main(String[] args) {
 		Product pr=new Product();
 		pr.id=666;
-		pr.name="shirt";
-		pr.sku="remotegit1";
+		pr.name="shahimsha-local";
+		pr.sku="kalesha";
 
 		System.out.println(pr);
 		
