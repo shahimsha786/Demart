@@ -19,7 +19,7 @@ public class Product {
 		Product pr=new Product();
 		pr.id=666;
 		pr.name="shahimsha-local";
-		pr.sku="kalesha";
+		pr.sku="kalesha-local";
 
 		System.out.println(pr);
 		
